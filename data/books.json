@@ -1,0 +1,67 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Hidden Key",
+      "price": 50,
+      "imgUrl": "./images/the-hidden-key.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "title": "Persist!",
+      "price": 70,
+      "imgUrl": "./images/persist.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "title": "Sweet Book",
+      "price": 65,
+      "imgUrl": "./images/sweet-book.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "title": "Deep Sea",
+      "price": 40,
+      "imgUrl": "./images/deep-sea.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "title": "Finding Your Inner Self",
+      "price": 60,
+      "imgUrl": "./images/finding-innerself.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "title": "Rise Above Wilderness",
+      "price": 80,
+      "imgUrl": "./images/rise-above.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "title": "The Summit",
+      "price": 30,
+      "imgUrl": "./images/the-summit.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "title": "The Safari",
+      "price": 45,
+      "imgUrl": "./images/the-safari.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 9,
+      "title": "Vanilla Sky",
+      "price": 35,
+      "imgUrl": "./images/vanilla-sky.jpg",
+      "quantity": 1
+    }
+  ]
+}
