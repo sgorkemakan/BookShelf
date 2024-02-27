@@ -33,7 +33,7 @@ function Home() {
       <div className="input-group mb-3">
         <input
           type="search"
-          placeholder="Monster..."
+          placeholder="Search..."
           onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
             setSearch(e.target.value)
           }
