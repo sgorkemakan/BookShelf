@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <footer className="border-top py-4 bg-light">
+    <footer className="border-top pt-2 bg-light">
       <div className="container-lg">
         <p className="text-center text-muted">
           &copy; BookShelf & Icon by
